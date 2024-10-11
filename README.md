@@ -4,7 +4,7 @@ This repository contains a **Parameterized N-Bit Ripple Carry Adder** design imp
 ## What is a Ripple Carry Adder?
 A **Ripple Carry Adder** is a digital circuit that computes the sum of two binary numbers and generates a carry-out signal for each bit position. It consists of a series of full adders connected in a chain, where the carry output from one adder is fed into the next adder in the sequence.
 
-![An-n-bit-ripple-carry-adder](https://github.com/user-attachments/assets/33e004b1-3380-4b36-859a-0766d5385787)
+![N-bit-Ripple-Carry-Adder-Delay-Calculation](https://github.com/user-attachments/assets/7b49bbab-5ff8-49de-9fe9-d5168db7eb16)
 
 ## Key Features of N-Bit Ripple Carry Adder
 This design is parameterized for flexibility, allowing you to specify the bit-width (N-bit) according to the application's needs.
